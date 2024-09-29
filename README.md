@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...everything, lol.
 - 📫 How to reach me ..._jetaimec IG
 - 😄 Pronouns: ...She/her
-- ⚡ Fun fact: ...My name means I love you in French. My dog is named after Todo in Wizard of Oz.
+- ⚡ Fun fact: ...My name means I love you in French. My dog is named after Toto in Wizard of Oz.
 
 <!---
 GitTodojetaime/GitTodojetaime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
